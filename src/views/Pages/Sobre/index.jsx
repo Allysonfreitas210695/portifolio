@@ -173,10 +173,12 @@ export default function Sobre() {
       </div>
 
       <div className="redes-socias">
-          <h2>Redes Socias</h2>
-          <label>Facebook:</label> <a href="https://www.facebook.com/bryan998138643">Visualizar Perfil</a><br />
-          <label>Instagram:</label> <a href="https://www.instagram.com/allyson_fr/" >Visualizar Perfil</a><br />
-          <label>LinkedIn:</label> <a href="https://www.linkedin.com/in/allyson-freitas" >Visualizar Perfil</a>
+          <h2>Redes Sócias</h2>
+          <label>Facebook:</label> <a rel="noopener noreferrer" href="https://www.facebook.com/bryan998138643" target="_blank">Visualizar Perfil</a><br />
+
+          <label>Instagram:</label> <a rel="noopener noreferrer" href="https://www.instagram.com/allyson_fr/"  target="_blank">Visualizar Perfil</a><br />
+
+          <label>LinkedIn:</label> <a rel="noopener noreferrer" href="https://www.linkedin.com/in/allyson-freitas"target="_blank" >Visualizar Perfil</a>
       </div>
       <div className="experience">
         <h2>Experiência Profissional</h2>
